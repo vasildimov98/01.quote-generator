@@ -14,4 +14,4 @@ Unleash your creativity, find solace in wise words, and share your favorite quot
 
 Experience the joy of discovering meaningful quotes tailored to uplift and enlighten. Let the wisdom of the ages inspire you with this JavaScript-powered quote generator, making your personal project an endless source of inspiration.
 
-![Image Description](./site/qoute.png)
+![Image Description](./site/quote.png)
